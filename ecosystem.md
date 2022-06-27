@@ -143,3 +143,4 @@
 - [idanran/myrtus](https://github.com/idanran/myrtus): 在多个群组间传话的机器人
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): 为🐧即时聊天工具中复现一只优秀的功能性机器人是本项目的目标
 - [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
+- [rnotlnglgq/OneBotWL](https://github.com/rnotlnglgq/OneBotWL): 基于 go-cqhttp ，根据消息内容来执行 Wolfram 语言代码。符号计算/编程制图/TeX公式编译渲染/按步骤求不定积分；实用工具/管理员识别/安全性限制/标准输出日志。
